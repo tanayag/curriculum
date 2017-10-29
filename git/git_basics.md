@@ -13,6 +13,12 @@ In this lesson we will cover common git commands used to manage your projects an
 * Name the git command used to view your commit history
 * Name the git command used to upload projects onto GitHub
 
+## The Mantra:
+
+* Add
+* Commit 
+* Push
+
 ## Assignment:
 1. [Try Git from codeschool](https://try.github.io/levels/1/challenges/1).
 Follow the exercises up to and including "1.11 Pushing Remotely" then jump back here.
